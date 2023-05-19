@@ -1,74 +1,67 @@
 {
-  "posts": {
-    "booking_details": [
-      {
-        "img_url": "https://source.unsplash.com/random/?dog",
-        "pets_name": "Monk & Sagar",
-        "status": "checked_in",
-        "start_date": "01/05/2023",
-        "end_date": "02/05/2021",
-        "total_task": 28,
-        "completed_task": 14
-      },
-      {
-        "img_url": "https://source.unsplash.com/random/?cat",
-        "pets_name": "Jerry & Shrey",
-        "status": "upcoming",
-        "start_date": "03/05/2023",
-        "end_date": "04/05/2021",
-        "total_task": 48,
-        "completed_task": 24
-      },
-      {
-        "img_url": "https://source.unsplash.com/random/?puppy",
-        "pets_name": "Anmol & Gourav",
-        "status": "checked_in",
-        "start_date": "05/05/2023",
-        "end_date": "06/05/2021",
-        "total_task": 48,
-        "completed_task": 24
-      },
-      {
-        "img_url": "https://source.unsplash.com/random/?rabbit",
-        "pets_name": "Emmy & Gaurang",
-        "status": "upcoming",
-        "start_date": "07/05/2023",
-        "end_date": "08/05/2021",
-        "total_task": 38,
-        "completed_task": 34
-      },
-      {
-        "img_url": "https://source.unsplash.com/random/?parrot",
-        "pets_name": "Tommy & George",
-        "status": "checked_in",
-        "start_date": "09/05/2023",
-        "end_date": "10/05/2021",
-        "total_task": 44,
-        "completed_task": 20
-      },
-      {
-        "img_url": "https://source.unsplash.com/random/?turtle",
-        "pets_name": "Veena & Sam",
-        "status": "checked_in",
-        "start_date": "10/05/2023",
-        "end_date": "11/05/2021",
-        "total_task": 98,
-        "completed_task": 56
-      },
-      {
-        "img_url": "https://source.unsplash.com/random/?fish",
-        "pets_name": "Eddy & Sara",
-        "status": "upcoming",
-        "start_date": "12/05/2023",
-        "end_date": "14/05/2021",
-        "total_task": 84,
-        "completed_task": 42
-      }
-    ],
-    "date_started": "01/05/2023",
-    "date_ended": "15/05/2023"
-  },
-  "profile": {
-    "name": "typicode"
-  }
+  "booking_details": [
+    {
+      "img_url": "https://source.unsplash.com/random/?dog",
+      "pets_name": "Monk & Sagar",
+      "status": "checked_in",
+      "start_date": "01/05/2023",
+      "end_date": "02/05/2021",
+      "total_task": 28,
+      "completed_task": 14
+    },
+    {
+      "img_url": "https://source.unsplash.com/random/?cat",
+      "pets_name": "Jerry & Shrey",
+      "status": "upcoming",
+      "start_date": "03/05/2023",
+      "end_date": "04/05/2021",
+      "total_task": 48,
+      "completed_task": 24
+    },
+    {
+      "img_url": "https://source.unsplash.com/random/?puppy",
+      "pets_name": "Anmol & Gourav",
+      "status": "checked_in",
+      "start_date": "05/05/2023",
+      "end_date": "06/05/2021",
+      "total_task": 48,
+      "completed_task": 24
+    },
+    {
+      "img_url": "https://source.unsplash.com/random/?rabbit",
+      "pets_name": "Emmy & Gaurang",
+      "status": "upcoming",
+      "start_date": "07/05/2023",
+      "end_date": "08/05/2021",
+      "total_task": 38,
+      "completed_task": 34
+    },
+    {
+      "img_url": "https://source.unsplash.com/random/?parrot",
+      "pets_name": "Tommy & George",
+      "status": "checked_in",
+      "start_date": "09/05/2023",
+      "end_date": "10/05/2021",
+      "total_task": 44,
+      "completed_task": 20
+    },
+    {
+      "img_url": "https://source.unsplash.com/random/?turtle",
+      "pets_name": "Veena & Sam",
+      "status": "checked_in",
+      "start_date": "10/05/2023",
+      "end_date": "11/05/2021",
+      "total_task": 98,
+      "completed_task": 56
+    },
+    {
+      "img_url": "https://source.unsplash.com/random/?fish",
+      "pets_name": "Eddy & Sara",
+      "status": "upcoming",
+      "start_date": "12/05/2023",
+      "end_date": "14/05/2021",
+      "total_task": 84,
+      "completed_task": 42
+    }
+  ]
 }
